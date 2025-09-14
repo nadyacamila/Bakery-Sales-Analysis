@@ -14,8 +14,7 @@ A simple sales analysis project using Microsoft Excel, including If-else functio
 3. Created PIVOT TABLE for category sales, monthly trend, top items, and peak hours
 4. Designed dashboard with PivotCharts and slicers
 <img width="960" height="877" alt="image" src="https://github.com/user-attachments/assets/df8d9e5a-bd3c-4602-9de6-ab306636277d" />
-<img width="1976" height="1180" alt="image" src="https://github.com/user-attachments/assets/cfb7a796-c983-4c5b-bc6d-4f49abe6f6e7" />
-<img width="1966" height="389" alt="image" src="https://github.com/user-attachments/assets/34fc243c-573a-4c37-a241-4617cfdbce03" />
+<img width="1658" height="1323" alt="image" src="https://github.com/user-attachments/assets/c819708e-ec26-462f-a3da-cc44943d2790" />
 
 ## Key Insights
 1. Drinks and Bakery are the highest-selling categories with total of 4997 and 2983 orders
